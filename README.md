@@ -46,9 +46,73 @@ https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/mp3crusher.js
 
 ---
 
+<h4 align="center">  spectrum | X-Media </h1>
+
+Converts the spectrum of sound into video.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/spectrum.js
+```
+
+---
+
 <h4 align="center">  mp4image  | X-Media </h1>
 
 Converts photo to 4 sec video.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/mp4image.js
 ```
+---
+
+<h4 align="center">  x4mp4 | X-Media </h1>
+
+Reduce video’s quality by 75%.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
+```
+
+---
+
+<h4 align="center">  x4mp4 | X-Media </h1>
+
+Reduce video’s quality by 75%.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
+```
+
+---
+
+<h4 align="center">  x2mp4 | X-Media </h1>
+
+Reduce video’s quality by 50%.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x2mp4.js
+```
+
+---
+
+<h4 align="center">  viewonce | Misc </h1>
+
+Downloads view once media.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/viewonce.js
+```
+
+---
+
+<h4 align="center">  Truecaller | Misc </h1>
+
+Gives info about number
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/truecaller.js
+```
+
+---
+
+<h4 align="center">  Truecaller | Misc </h1>
+
+Gives info about number
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/truecaller.js
+```
+
+

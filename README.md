@@ -11,3 +11,44 @@
 
 ---
 
+<h4 align="center">  Askdog  | troll </h1>
+
+Makes troll image
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/askdog.js
+```
+---
+
+<h4 align="center">  Doggy  | troll </h1>
+
+Makes troll image
+```
+https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/doggy.js
+```
+
+---
+
+<h4 align="center">  HappyDog  | troll </h1>
+
+Makes troll image
+```
+https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/happydog.js
+```
+
+---
+
+<h4 align="center">  Mp3crusher  | X-Media </h1>
+
+Distorts the sound, makes ridiculous.
+```
+https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/mp3crusher.js
+```
+
+---
+
+<h4 align="center">  mp4image  | X-Media </h1>
+
+Converts photo to 4 sec video.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/mp4image.js
+```

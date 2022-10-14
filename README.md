@@ -11,6 +11,12 @@
 
 ---
 
+- Create your own plugin and join group to add that plugin in repo.
+
+---
+
+---
+
 <h4 align="center">  Askdog  | troll </h1>
 
 Makes troll image

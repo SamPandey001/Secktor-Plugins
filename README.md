@@ -121,4 +121,11 @@ Gives info about number
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/truecaller.js
 ```
 
+---
 
+<h4 align="center">  Owner | General </h1>
+
+Sends owner number.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/owner.js
+```

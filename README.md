@@ -187,6 +187,15 @@ NSFW Pic(18+)
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/vixen.js
 ```
 
+---
+
+<h4 align="center"> Slow-Mo | tool </h1>
+
+Adds slow motion in video.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/slowmo.js
+```
+
 
 
 

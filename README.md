@@ -112,3 +112,75 @@ Sends owner number.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/why.js
 ``
+
+---
+
+<h4 align="center">  cosplay | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/cosplay.js
+``
+
+---
+
+<h4 align="center">  ecchi | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/ecchi.js
+```
+
+---
+
+<h4 align="center">  hentaivid | NSFW </h1>
+
+NSFW Video(18+).
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/hentaivid.js
+```
+
+---
+
+<h4 align="center">  henati | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/henati.js
+```
+
+---
+
+<h4 align="center">  Ranal | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/ranal.js
+```
+
+---
+
+<h4 align="center">  rpussy | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/rpussy.js
+```
+
+---
+
+<h4 align="center">  Solo | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/solo.js
+```
+
+---
+
+<h4 align="center">  Vixen | NSFW </h1>
+
+NSFW Pic(18+)
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/vexen.js
+```

@@ -111,7 +111,8 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/owner.js
 Sends owner number.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/why.js
-``
+```
+
 
 ---
 
@@ -120,7 +121,7 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/why.js
 NSFW Pic(18+)
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/cosplay.js
-``
+```
 
 ---
 

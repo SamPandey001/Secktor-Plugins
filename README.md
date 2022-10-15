@@ -183,5 +183,5 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/solo.js
 
 NSFW Pic(18+)
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/vexen.js
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/nsfw/vixen.js
 ```

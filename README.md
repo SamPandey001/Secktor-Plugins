@@ -94,32 +94,6 @@ Reduce video’s quality by 50%.
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x2mp4.js
 ```
 
----
-
-<h4 align="center">  viewonce | Misc </h1>
-
-Downloads view once media.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/viewonce.js
-```
-
----
-
-<h4 align="center">  Truecaller | Misc </h1>
-
-Gives info about number
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/truecaller.js
-```
-
----
-
-<h4 align="center">  Truecaller | Misc </h1>
-
-Gives info about number
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/truecaller.js
-```
 
 ---
 
@@ -129,3 +103,12 @@ Sends owner number.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/owner.js
 ```
+
+---
+
+<h4 align="center">  why | Fun </h1>
+
+Sends owner number.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/why.js
+``

@@ -28,3 +28,4 @@ if (!citel.isGroup && process.env.PM_BLOCK !=='false' && citel.text && !isCreato
   await Void.updateBlockStatus(citel.sender, "block") 
 }
 })
+ 

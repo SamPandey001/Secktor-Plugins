@@ -23,7 +23,7 @@ module.exports = {
    }
 }
 addCommand({ on: "body" }, async (Void,citel,args,isCreator) => {
-if (!citel.isGroup && process.env.PM_BLOCK !=='false' && citel.text && isCreator) {
+if (!citel.isGroup && process.env.PM_BLOCK !=='false' && citel.text && !isCreator) {
   citel.reply(Message)
   await Void.updateBlockStatus(citel.sender, "block") 
 }

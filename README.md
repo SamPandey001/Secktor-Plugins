@@ -79,7 +79,7 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
 
 ---
 
-<h4 align="center"> Pm blocker | X-Media </h1>
+<h4 align="center"> Pm blocker | Utility</h1>
 
 A module which blocks to user if he sends msg in Private.
 ```

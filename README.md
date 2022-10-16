@@ -79,11 +79,11 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
 
 ---
 
-<h4 align="center">  x4mp4 | X-Media </h1>
+<h4 align="center"> Pm blocker | X-Media </h1>
 
-Reduce video’s quality by 75%.
+A module which blocks to user if he sends msg in Private.
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/x4mp4.js
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/pm-blocker.js
 ```
 
 ---

@@ -18,6 +18,15 @@
 
 ---
 
+<h4 align="center">  BGM | misc </h1>
+
+Makes troll image
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
+```
+
+---
+
 <h4 align="center">  Askdog  | troll </h1>
 
 Makes troll image

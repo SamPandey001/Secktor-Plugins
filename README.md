@@ -20,7 +20,7 @@
 
 <h4 align="center">  BGM | misc </h1>
 
-Makes troll image
+Activates bgm in bot.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
 ```

@@ -8,7 +8,7 @@ I can't find more bgm if you have please provide us in Support Group.
 */
 module.exports = {
    name: 'bgm',
-   category: 'owner',
+   category: 'misc',
    desc: 'Turn on/off bgm blocking system.',
    async exec(citel, Void,args,isCreator) {
       if (!isCreator) return citel.reply(tlang().owner);

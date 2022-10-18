@@ -24,6 +24,14 @@ Activates bgm in bot.
 ```
 https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
 ```
+---
+
+<h4 align="center">  Mention BGM| misc </h1>
+
+Sends a randome bgm with thumbnail if someone mentions(@bot).
+```
+https://gist.github.com/SamPandey001/b5de0c69d8904bcf521e24ebdb4759e7
+```
 
 ---
 

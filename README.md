@@ -27,6 +27,15 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
 
 ---
 
+<h4 align="center">  Intro | general </h1>
+
+Sends intro of owner. Edit json accourding yourself.
+```
+https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/intro.js
+```
+
+---
+
 <h4 align="center">  Askdog  | troll </h1>
 
 Makes troll image

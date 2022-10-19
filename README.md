@@ -44,6 +44,16 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/intro.js
 
 ---
 
+<h4 align="center">  Find | misc </h1>
+
+Searchs song on server and provides result..
+```
+https://gist.githubusercontent.com/SamPandey001/0148f5c0a9b9686c08848453d045e6ce/raw/5b6bad198bda8bc64e6bff9e3c8ccd9022fadec6/shazam.js
+```
+
+
+---
+
 <h4 align="center">  Askdog  | troll </h1>
 
 Makes troll image

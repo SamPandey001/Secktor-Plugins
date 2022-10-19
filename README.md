@@ -30,7 +30,7 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
 
 Sends a random bgm with thumbnail if someone mentions(@bot).
 ```
-https://gist.github.com/SamPandey001/b5de0c69d8904bcf521e24ebdb4759e7
+https://gist.github.com/SamPandey001/b5de0c69d8904bcf521e24ebdb4759e7/raw/0fa989f0991bdabe065c0725f94111ff6f436513/mention-bgm.js
 ```
 
 ---

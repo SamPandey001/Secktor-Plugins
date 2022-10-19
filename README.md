@@ -51,6 +51,31 @@ Searchs song on server and provides result..
 https://gist.githubusercontent.com/SamPandey001/0148f5c0a9b9686c08848453d045e6ce/raw/5b6bad198bda8bc64e6bff9e3c8ccd9022fadec6/shazam.js
 ```
 
+---
+
+<h4 align="center">  Fact | Misc </h1>
+
+Sends a random fact
+```
+https://gist.github.com/SamPandey001/7fc9373dea053a40588c598c488bbfa9/raw/c2a0ac0e3d72e9eaaaf59b1c875116e277e8f717/fact.js
+```
+---
+
+<h4 align="center">  quotes | misc </h1>
+
+Sends a random quotes
+```
+https://gist.github.com/SamPandey001/05299814ab513e264b118bbad6f45902/raw/d192540fc69a345921c029c8ecfb2c8f4e8634e7/quotes.js
+```
+
+---
+
+<h4 align="center">  define | misc </h1>
+
+urban dictionary 
+```
+https://gist.github.com/SamPandey001/2e1bc39d9c7a04b82a34f36c0e344033/raw/02d87c5ea3e4059b18e8ec9bbd22f82543fa2470/define.js
+```
 
 ---
 

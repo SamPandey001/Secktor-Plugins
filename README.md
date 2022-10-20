@@ -26,6 +26,16 @@ https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
 ```
 ---
 
+<h4 align="center">  fd | misc </h1>
+
+Fd,forwards audio in given jid address with thumbanail
+```
+https://gist.github.com/SamPandey001/7aa093dafacffb857532efdde31f024c/raw
+```
+
+
+---
+
 <h4 align="center">  Mention BGM | misc </h1>
 
 Sends a random bgm with thumbnail if someone mentions(@bot).

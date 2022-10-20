@@ -40,7 +40,7 @@ https://gist.github.com/SamPandey001/7aa093dafacffb857532efdde31f024c/raw
 
 Sends a random bgm with thumbnail if someone mentions(@bot).
 ```
-https://gist.githubusercontent.com/SamPandey001/b5de0c69d8904bcf521e24ebdb4759e7/raw
+https://gist.github.com/SamPandey001/e4cdf37ae2126fc23f69fbaf556c8aa5/raw
 ```
 
 ---

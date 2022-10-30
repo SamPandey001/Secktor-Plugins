@@ -45,6 +45,14 @@ https://gist.github.com/SamPandey001/e4cdf37ae2126fc23f69fbaf556c8aa5/raw
 
 ---
 
+<h4 align="center">  Ship | Fun </h1>
+
+does matchmaking in group with percentage.
+```
+https://gist.githubusercontent.com/SamPandey001/dd830656c94b1e39e33431fa0f33336b/raw
+```
+---
+
 <h4 align="center">  Intro | general </h1>
 
 Sends intro of owner. Edit json accourding yourself.

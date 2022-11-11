@@ -18,88 +18,124 @@
 
 ---
 
-<h4 align="center">  BGM | misc </h1>
+<h4 align="center">  Editor Pack </h1>
 
-Activates bgm in bot.
+Photo editor pack
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/bgm.js
-```
----
-
-<h4 align="center">  fd | misc </h1>
-
-Fd,forwards audio in given jid address with thumbanail
-```
-https://gist.github.com/SamPandey001/7aa093dafacffb857532efdde31f024c/raw
-```
-
-
----
-
-<h4 align="center">  Mention BGM | misc </h1>
-
-Sends a random bgm with thumbnail if someone mentions(@bot).
-```
-https://gist.github.com/SamPandey001/e4cdf37ae2126fc23f69fbaf556c8aa5/raw
+https://gist.github.com/SamPandey001/47ce45f5519dd9d4f74b68fc675d7eb6/raw
 ```
 
 ---
 
-<h4 align="center">  Ship | Fun </h1>
+<h4 align="center">  Media Pack </h1>
 
-does matchmaking in group with percentage.
+Media editor pack
 ```
-https://gist.githubusercontent.com/SamPandey001/dd830656c94b1e39e33431fa0f33336b/raw
-```
----
-
-<h4 align="center">  Intro | general </h1>
-
-Sends intro of owner. Edit json accourding yourself.
-```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/intro.js
+https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 ```
 
 ---
 
-<h4 align="center">  Find | misc </h1>
+<h4 align="center">  Troll Pack </h1>
 
-Searchs song on server and provides result..
+Troll pack
 ```
-https://gist.githubusercontent.com/SamPandey001/0148f5c0a9b9686c08848453d045e6ce/raw/5b6bad198bda8bc64e6bff9e3c8ccd9022fadec6/shazam.js
-```
-
----
-
-<h4 align="center">  Fact | Misc </h1>
-
-Sends a random fact
-```
-https://gist.github.com/SamPandey001/7fc9373dea053a40588c598c488bbfa9/raw/c2a0ac0e3d72e9eaaaf59b1c875116e277e8f717/fact.js
-```
----
-
-<h4 align="center">  quotes | misc </h1>
-
-Sends a random quotes
-```
-https://gist.github.com/SamPandey001/05299814ab513e264b118bbad6f45902/raw/d192540fc69a345921c029c8ecfb2c8f4e8634e7/quotes.js
+https://gist.github.com/SamPandey001/203aa1a413bf0d2264b03b3448a83b1d/raw
 ```
 
 ---
 
-<h4 align="center">  define | misc </h1>
+<h4 align="center">  Mention Preview </h1>
 
-urban dictionary 
+Sends audio when someone mentios bot.
 ```
-https://gist.github.com/SamPandey001/2e1bc39d9c7a04b82a34f36c0e344033/raw/02d87c5ea3e4059b18e8ec9bbd22f82543fa2470/define.js
+https://gist.github.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269/raw
 ```
 
 ---
 
-<h4 align="center">  Askdog  | troll </h1>
+<h4 align="center">  NSFW pack </h1>
 
-Makes troll image
+NSFW pack
 ```
-https://github.com/SamPandey001/Secktor-Plugins/raw/main/plugins/askdog.js
+https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw
 ```
+
+---
+
+<h4 align="center">  Pm blocker </h1>
+
+Pm blocker
+```
+https://gist.github.com/SamPandey001/42a6856ec4ccf8dda19729913b19e350
+```
+
+---
+
+<h4 align="center"> Sample Plugin </h1>
+
+Sample of making plugins in Secktor
+```
+https://gist.github.com/SamPandey001/5224fb9d5d7874a58ac2388fc89720a9/raw
+```
+
+---
+
+<h4 align="center"> shipment </h1>
+
+```
+https://gist.github.com/SamPandey001/28d55f52dd7f7d91f17bf4c1bd5b8da6/raw
+```
+
+
+---
+
+<h4 align="center"> find audio </h1>
+
+```
+https://gist.github.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw
+```
+
+---
+
+<h4 align="center"> Intro </h1>
+
+Intro plugins
+```
+https://gist.github.com/SamPandey001/f96ea773e1c44cc2849f42fb7c4a968f/raw
+```
+
+---
+
+<h4 align="center"> Audio </h1>
+
+Audio pack
+```
+https://gist.github.com/SamPandey001/0b7f3d51a6b74502c236cd37b92035b2
+```
+
+---
+
+<h4 align="center"> Text-to-Image </h1>
+
+```
+https://gist.github.com/SamPandey001/5557839a39f7558ffd24d6c7d821d34a/raw
+```
+
+---
+
+<h4 align="center"> Weeb-UwU </h1>
+
+```
+https://gist.github.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw
+```
+
+---
+
+<h4 align="center"> Reaction-Pack </h1>
+
+```
+https://gist.github.com/SamPandey001/3d3c8faef08a33751186dcb56d0790b9/raw
+```
+
+

@@ -49,7 +49,7 @@ https://gist.github.com/SamPandey001/203aa1a413bf0d2264b03b3448a83b1d/raw
 
 Sends audio when someone mentios bot.
 ```
-https://gist.github.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269/raw
+https://gist.githubusercontent.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269/raw/61b9593692ac8ac7a516dc94d6591aa8c9808b8b
 ```
 
 ---

@@ -27,6 +27,15 @@ https://gist.github.com/SamPandey001/47ce45f5519dd9d4f74b68fc675d7eb6/raw
 
 ---
 
+<h4 align="center">  Pm-Permit </h1>
+
+Pm Permit Protection
+```
+https://gist.github.com/SamPandey001/3157eb9b5a3b0de72da50785f84ff5fe/raw
+```
+
+---
+
 <h4 align="center">  Media Pack </h1>
 
 Media editor pack

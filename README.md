@@ -34,6 +34,16 @@ Pm Permit Protection
 https://gist.github.com/SamPandey001/3157eb9b5a3b0de72da50785f84ff5fe/raw
 ```
 
+
+---
+
+<h4 align="center">  BGM </h1>
+
+BGM at specific word.
+```
+https://gist.githubusercontent.com/SamPandey001/6d706c8725ac76cb9b8e8ccba6ef91c9/raw
+```
+
 ---
 
 <h4 align="center">  Media Pack </h1>

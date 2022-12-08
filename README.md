@@ -86,7 +86,7 @@ https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw
 
 Pm blocker
 ```
-https://gist.github.com/SamPandey001/42a6856ec4ccf8dda19729913b19e350
+https://gist.github.com/SamPandey001/42a6856ec4ccf8dda19729913b19e350/raw/e666f2038a98fadd959bb01742a2ec86a56ec8bc/pmblocker.js
 ```
 
 ---

@@ -55,6 +55,16 @@ https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 
 ---
 
+<h4 align="center">  Switches </h1>
+
+Switches for various task(List message to ease your work).
+```
+https://gist.github.com/SamPandey001/b76fb6d996606c5da6b19e807a8ba22c/raw
+```
+
+
+---
+
 <h4 align="center">  Troll Pack </h1>
 
 Troll pack

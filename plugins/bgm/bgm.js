@@ -1,9 +1,37 @@
 {
-"begins" : "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/And%20so%20it%20begins.mp3?raw=true",
- "sparrow": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/Jack%20Sparrow%20Images%20!%20Jack%20Sparrow%20!%20Theme.mp3?raw=true",
- "sorry": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/Baby%20Im%20So%20Sorry.mp3?raw=true",
- "piano": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/Bachelor%20Movie%20Piano%20Bgm%20-%20Adiye%20Bgm.mp3",
-  "first class": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/First%20Class%20-%20Arjit%20Singh%20!%20Romantic%20!%20Hindi.mp3",
-  "got you": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/I%20Got%20You%20-%20Levitating%20-%20Dua%20Lipa%20!%20English%20Song.mp3",
-  "sad": "https://github.com/SamPandey001/Secktor-Plugins/blob/main/plugins/bgm/alan-faded.mp3"
+
+"mk":"https://i.imgur.com/M82ppN7.mp4",
+
+"alive":"https://i.imgur.com/RVI0hS9.mp4",
+
+"adarei":"https://i.imgur.com/y9iybNB.mp4",
+
+"bot" : "https://i.imgur.com/1paFKTu.mp4",
+
+"hi" : "https://i.imgur.com/euO3NJ8.mp4",
+
+"hey":"https://i.imgur.com/WKvrFP5.mp4",
+
+"akke":"https://i.imgur.com/1W04z4S.mp4",
+
+"ok":"https://i.imgur.com/nbnG6ni.mp4",
+
+"bye":"https://i.imgur.com/PMH1quI.mp4",
+
+"fck":"https://i.imgur.com/QIz0UQr.mp4",
+
+"fuck":"https://i.imgur.com/QIz0UQr.mp4",
+
+"gn":"https://i.imgur.com/4HRGTC6.mp4",
+
+"gm":"https://i.imgur.com/074I93r.mp4",
+
+"good morning":"https://i.imgur.com/074I93r.mp4",
+
+"good night":"https://i.imgur.com/4HRGTC6.mp4",
+
+"ha ha":"https://i.imgur.com/nbnG6ni.mp4", 
+
+"umma":"https://i.imgur.com/y9iybNB.mp4" 
+
 }

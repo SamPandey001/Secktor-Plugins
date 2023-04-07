@@ -6,11 +6,11 @@ var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
+│ *Name      :* ᚛M๏𝓷keℽ D Lบffy᚜
 │ *Place       :* U.P.
 │ *Gender   :*  ᴍᴀʟᴇ
 │ *Age          :* 17_
-│ *Phone     :* wa.me/91xxxxxx
+│ *Phone     :* wa.me/22891733300
 │ *IG ID        :* ig.com
 │ *Status     :* Chilling._
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`

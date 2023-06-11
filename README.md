@@ -87,7 +87,7 @@ https://gist.githubusercontent.com/SamPandey001/eac4fa2950b5fb756e499e61aac93269
 
 NSFW pack
 ```
-https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw
+https://gist.github.com/SamPandey001/12d97bf94224431591c92808095e89e3/raw/df844dffdcf72bc92d576b41bd0dc5f6c75a70f6/nsfw-pack.js
 ```
 
 ---

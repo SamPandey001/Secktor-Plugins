@@ -17,9 +17,20 @@
 ---
 
 
-<h4 align="center">  Editor Pack </h1>
+<h4 align="center">  FaceBook Downloader </h1>
 
-TikTok Video Downloader
+Facebook Video Downloader
+```
+https://gist.githubusercontent.com/SuhailTechInfo/c86b75e00c06da1743a6a5f1b18f5587/raw/ad8420a4bf3a1da515e486bbf57cda02c2f51750/fbdl-Secktor.js
+```
+
+
+---
+
+
+<h4 align="center">  TikTok Downloader </h1>
+
+TikTok No Watermark Downloader
 ```
 https://gist.githubusercontent.com/SuhailTechInfo/94464b9f031789bf1023c4c03eead71c/raw/a5aa40ba3be13ae1d51d5b25e5be59ec814b252f/tiktokdl-secktor.js
 ```

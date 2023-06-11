@@ -16,6 +16,15 @@
 
 ---
 
+
+<h4 align="center">  Editor Pack </h1>
+
+TikTok Video Downloader
+```
+https://gist.githubusercontent.com/SuhailTechInfo/94464b9f031789bf1023c4c03eead71c/raw/a5aa40ba3be13ae1d51d5b25e5be59ec814b252f/tiktokdl-secktor.js
+```
+
+
 ---
 
 <h4 align="center">  Editor Pack </h1>

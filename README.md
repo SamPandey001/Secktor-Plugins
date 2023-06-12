@@ -176,7 +176,7 @@ https://gist.github.com/SamPandey001/5557839a39f7558ffd24d6c7d821d34a/raw
 <h4 align="center"> Weeb-UwU </h1>
 
 ```
-https://gist.github.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw
+https://gist.githubusercontent.com/SamPandey001/d17a1512da8380b8a2c5f2cf7c80b0d8/raw/25e31570b2789e5304f88f93f9ab06f0f952ca89/weeb-UwU.js
 ```
 
 ---

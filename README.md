@@ -73,15 +73,6 @@ Media editor pack
 https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 ```
 
----
-
-<h4 align="center">  Switches </h1>
-
-Switches for various task(List message to ease your work).
-```
-https://gist.github.com/SamPandey001/b76fb6d996606c5da6b19e807a8ba22c/raw
-```
-
 
 ---
 
@@ -142,7 +133,7 @@ https://gist.github.com/SamPandey001/28d55f52dd7f7d91f17bf4c1bd5b8da6/raw
 <h4 align="center"> find audio </h1>
 
 ```
-https://gist.github.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw
+https://gist.githubusercontent.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw/1c31971f4a3cd65d46bfa8abb98aced5de7253e2/find.js
 ```
 
 ---

@@ -133,7 +133,7 @@ https://gist.github.com/SamPandey001/28d55f52dd7f7d91f17bf4c1bd5b8da6/raw
 <h4 align="center"> find audio </h1>
 
 ```
-https://gist.githubusercontent.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw/1c31971f4a3cd65d46bfa8abb98aced5de7253e2/find.js
+https://gist.githubusercontent.com/SamPandey001/15d182b7b2a4fae00dba8b04ce9e7a00/raw/
 ```
 
 ---

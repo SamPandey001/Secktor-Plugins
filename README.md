@@ -74,14 +74,6 @@ https://gist.github.com/SamPandey001/a7df7517f66cf11ab5a2780536e9c08c/raw
 ```
 
 
----
-
-<h4 align="center">  Troll Pack </h1>
-
-Troll pack
-```
-https://gist.github.com/SamPandey001/203aa1a413bf0d2264b03b3448a83b1d/raw
-```
 
 ---
 

@@ -16,6 +16,17 @@
 
 ---
 
+
+<h4 align="center"> Fullgpp </h1>
+
+Set Full Group Profile Pic
+```
+https://gist.github.com/SuhailTechInfo/5ac882f52a000f1e51d1eb4922761c1a/raw
+```
+- Created By @SuhailTechInfo
+---
+
+
 <h4 align="center">  Editable BGM </h1>
 add bgm on specific words just by repling a audio/video
 

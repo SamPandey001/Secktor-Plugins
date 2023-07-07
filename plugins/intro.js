@@ -5,7 +5,7 @@ var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-│       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
+│       *「 بياناتي 」*
 │ *Name      :* Sam Pandey
 │ *Place       :* U.P.
 │ *Gender   :*  ᴍᴀʟᴇ

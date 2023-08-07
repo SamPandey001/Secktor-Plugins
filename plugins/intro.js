@@ -1,15 +1,15 @@
 var surl = 'https://github.com/SamPandey001/Secktor-Md' // Source URL
-const number = '919628516236'
-var name = '𝐒𝚫𝚳 𝚸𝚫𝚴𝐃𝚵𝐘'
-var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
-var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+const number = '911169269397'
+var name = '𝐑𝐔𝐃𝐑𝐀 𝐒𝐄𝐑'
+var body = '𝐓𝐀𝐏 𝐁𝐑𝐎 😌🤍'
+var image = 'https://telegra.ph/file/d5bad3273abd016a3f38a.jpg'
+var thumb = 'https://telegra.ph/file/d5bad3273abd016a3f38a.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
-│ *Place       :* U.P.
+│ *Name      :* 𝚁𝚄𝙳𝚁𝙰 𝙼𝙰𝚂𝚂 🙂🤍
+│ *Place       :* TN
 │ *Gender   :*  ᴍᴀʟᴇ
-│ *Age          :* 17_
+│ *Age          :* 1_
 │ *Phone     :* wa.me/91xxxxxx
 │ *IG ID        :* ig.com
 │ *Status     :* Chilling._

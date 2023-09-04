@@ -1,16 +1,16 @@
 var surl = 'https://github.com/SamPandey001/Secktor-Md' // Source URL
-const number = '919628516236'
-var name = '𝐒𝚫𝚳 𝚸𝚫𝚴𝐃𝚵𝐘'
+const number = '255678101729'
+var name = '𝐒𝚫𝚳 OCHU'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
 var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
-│ *Place       :* U.P.
-│ *Gender   :*  ᴍᴀʟᴇ
+│ *Name      :* SAM OCHU
+│ *Place       :* T.Z.
+│ *Gender   :* Male
 │ *Age          :* 17_
-│ *Phone     :* wa.me/91xxxxxx
+│ *Phone     :* wa.me/255678101729
 │ *IG ID        :* ig.com
 │ *Status     :* Chilling._
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`

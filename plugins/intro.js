@@ -1,17 +1,17 @@
 var surl = 'https://github.com/SamPandey001/Secktor-Md' // Source URL
-const number = '919628516236'
-var name = '𝐒𝚫𝚳 𝚸𝚫𝚴𝐃𝚵𝐘'
+const number = '917034167123'
+var name = '𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
-var thumb = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg'
+var thumb = 'https://telegra.ph/file/f1ae2cd1d9d934d9c2465.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
 │       *「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」*
-│ *Name      :* Sam Pandey
-│ *Place       :* U.P.
+│ *Name      :* 𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷
+│ *Place       :* 𝛫𝛥𝛮𝛮𝑈𝑅
 │ *Gender   :*  ᴍᴀʟᴇ
-│ *Age          :* 17_
-│ *Phone     :* wa.me/91xxxxxx
-│ *IG ID        :* ig.com
+│ *Age          :* ____
+│ *Phone     :* wa.me/917034167123
+│ *IG ID        :* ig.com m.hmmmmmd 
 │ *Status     :* Chilling._
 ╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`
 

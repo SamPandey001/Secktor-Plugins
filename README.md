@@ -24,7 +24,7 @@ Set Full Group Profile Pic
 https://gist.github.com/SuhailTechInfo/5ac882f52a000f1e51d1eb4922761c1a/raw
 ```
 - Created By @SuhailTechInfo
----
+
 ---
 
 
@@ -33,6 +33,97 @@ https://gist.github.com/SuhailTechInfo/5ac882f52a000f1e51d1eb4922761c1a/raw
 Youtube Audio/Video downloader
 ```
 https://gist.githubusercontent.com/SamPandey001/140edc7ac34660536449c4bb2eea2500/raw
+```
+---
+---
+
+
+<h4 align="center"> Thanos </h1>
+
+Thanos Quotes
+```
+https://gist.githubusercontent.com/SamPandey001/f2ac62f79f6d3a81a3f076668e35a599/raw
+```
+---
+---
+
+
+<h4 align="center"> Mood </h1>
+
+Mood Describer
+```
+https://gist.githubusercontent.com/SamPandey001/91726d2ac9d84a329df76533aab80011/raw/
+```
+---
+---
+
+
+<h4 align="center"> Dice </h1>
+
+Dice Roller
+```
+https://gist.github.com/SamPandey001/c4dbaeb15a411906291f8a9e82d66025/raw
+```
+---
+---
+
+
+<h4 align="center"> TextPro </h1>
+
+Text Pro
+```
+https://gist.githubusercontent.com/SamPandey001/5557839a39f7558ffd24d6c7d821d34a/raw
+```
+---
+---
+
+
+<h4 align="center"> UJid </h1>
+
+Users Jid of Group
+```
+https://gist.github.com/SamPandey001/19b9c130358552fd1191cee910d411ff/raw
+```
+---
+---
+
+
+<h4 align="center"> Clown </h1>
+
+Clown Maker
+```
+https://gist.github.com/SamPandey001/28d4f77ee9df3335934ffbecb3471417/raw
+```
+---
+
+---
+
+
+<h4 align="center"> Simpcard </h1>
+
+Simp Maker
+```
+https://gist.github.com/SamPandey001/a655ba040290c58649e70195d779b381/raw
+```
+---
+---
+
+
+<h4 align="center"> Comrade </h1>
+
+Comrade Meme
+```
+https://gist.github.com/SamPandey001/e9ce698072a8f5300deb709b519a5a60/raw
+```
+---
+---
+
+
+<h4 align="center"> Jail </h1>
+
+Jail Maker
+```
+https://gist.github.com/SamPandey001/6080ab84daf9b6c9487808b66309acf5/raw
 ```
 ---
 ---

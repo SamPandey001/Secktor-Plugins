@@ -25,7 +25,16 @@ https://gist.github.com/SuhailTechInfo/5ac882f52a000f1e51d1eb4922761c1a/raw
 ```
 - Created By @SuhailTechInfo
 ---
+---
 
+
+<h4 align="center"> Youtube Downloader </h1>
+
+Youtube Audio/Video downloader
+```
+https://gist.githubusercontent.com/SamPandey001/140edc7ac34660536449c4bb2eea2500/raw
+```
+---
 ---
 
 
